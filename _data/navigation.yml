@@ -1,7 +1,13 @@
 # Menu navigation links
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Blag
+  url: /blag/
 
-- title: External Link
-  url: http://mademistakes.com
+- title: Stories
+  url: /stories/
+  
+- title: Coding
+  url: /code/
+
+- title: Personal Reference
+  url: /theme-setup/
